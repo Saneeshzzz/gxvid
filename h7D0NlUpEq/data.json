@@ -3,7 +3,10 @@
   "cover": "cover.png",
   "duration": 1377.365000,
   "preview": {
-    "p1.zip": 10
+    "p1.zip": {
+      "frames": 137,
+      "capture": 10
+    }
   },
   "timestamp": [],
   "quality": [1080],
